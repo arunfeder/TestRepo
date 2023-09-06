@@ -3,7 +3,7 @@ package Assessment;
 public class SortingOfArray {
     static int arr[] = {1, 2, 50, 7, 50};
     static int temp;
-   static int len = arr.length;
+    static int len = arr.length;
 
     static void sortFunction()
     {
